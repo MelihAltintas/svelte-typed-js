@@ -7,6 +7,8 @@ Typed.js is a library that types. Enter in any string, and watch it type at the 
 
 Checkout the offical project [here](https://github.com/mattboldt/typed.js/).
 
+**Demo**: https://svelte.dev/repl/823ca24caab143a6896f22fb853a83d0?version=3
+
 ## Table of contents
 
 - [Installation](#installation)
