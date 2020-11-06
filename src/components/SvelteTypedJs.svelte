@@ -40,7 +40,7 @@
         align-items: center;
     }
 
-    .typed-element .typed-cursor {
+    :global(.typed-element .typed-cursor) {
         opacity: 1;
         animation: typedjsBlink 0.7s infinite;
     }
