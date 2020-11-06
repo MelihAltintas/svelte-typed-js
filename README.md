@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/svelte-typed-js.svg)](https://www.npmjs.com/package/svelte-typed-js) &bull; [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/MelihAltintas/svelte-typed-js/blob/master/LICENSE) &bull; [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/MelihAltintas/svelte-typed-js.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/MelihAltintas/svelte-typed-js/context:javascript) 
+
 # svelte-typed-js
 
 
